@@ -2,4 +2,5 @@
 main()
 {
 printf("fycs")
+  printf("sycs")
 }
